@@ -1,0 +1,3 @@
+file is opened 
+
+u can read this file
